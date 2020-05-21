@@ -9,8 +9,8 @@ export class AccountService {
           status: 'inactive'
         },
         {
-          name: 'Hidden Account',
-          status: 'unknown'
+          // name: 'Hidden Account',
+          // status: 'unknown'
         }
       ];
 
